@@ -1,6 +1,6 @@
 # Password Manager Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project allows a user to store their sensitive passwords in a secure manner.
 
 ## Available Scripts
 
